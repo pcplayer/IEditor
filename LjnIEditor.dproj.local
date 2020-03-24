@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/01/19 11:56:53.000.876,=rtl.dcp</Transaction>
+    <Transaction>2020/01/19 11:58:12.000.017,D:\test\Package1.dproj=D:\Pro\Netel2020\Controls\IEditor\LjnIEditor.dproj</Transaction>
+    <Transaction>2020/01/19 12:00:08.000.002,=D:\Pro\Netel2020\Controls\IEditor\IE_Editor\EditorUI\UFmLjnEditor.pas</Transaction>
+    <Transaction>2020/01/19 12:01:06.000.363,=D:\Pro\Netel2020\Controls\IEditor\IE_Editor\WBrowserEditor.pas</Transaction>
+    <Transaction>2020/01/19 12:02:52.000.765,=D:\Pro\Netel2020\Controls\IEditor\IE_Editor\MSHTML_TLB.pas</Transaction>
+    <Transaction>2020/01/19 12:02:52.000.837,=D:\Pro\Netel2020\Controls\IEditor\IE_Editor\MSHTMLEvents.pas</Transaction>
+    <Transaction>2020/01/19 12:03:19.000.263,=D:\Pro\Netel2020\Controls\IEditor\IE_Editor\MiMeEncodePic.pas</Transaction>
+    <Transaction>2020/01/19 12:04:27.000.871,=D:\Pro\Netel2020\Controls\IEditor\IE_Editor\EditorUI\UFmFullScreen.pas</Transaction>
+    <Transaction>2020/01/19 12:05:25.000.896,=D:\Pro\Netel2020\Controls\IEditor\IE_Editor\EditorUI\UTableProperty.pas</Transaction>
+    <Transaction>2020/01/19 12:07:13.000.730,D:\Pro\Netel2020\Controls\IEditor\IE_Editor\WBrowserEditor.pas=</Transaction>
+    <Transaction>2020/01/19 12:08:03.000.596,=D:\Pro\Netel2020\Controls\IEditor\IE_Editor\WBrowserEditor.pas</Transaction>
+    <Transaction>2020/01/19 12:08:41.000.285,=D:\Pro\Netel2020\Controls\IEditor\IE_Editor\WBrowserEditor_1.pas</Transaction>
+    <Transaction>2020/01/19 12:11:06.000.079,=D:\Pro\Netel2020\Controls\IEditor\IE_Editor\LjnMailMessage.pas</Transaction>
+    <Transaction>2020/01/19 12:11:06.000.086,=D:\Pro\Netel2020\Controls\IEditor\IE_Editor\LjnMiMeDecode.pas</Transaction>
+    <Transaction>2020/01/19 12:13:19.000.441,D:\Pro\Netel2020\Controls\IEditor\IE_Editor\LjnMiMeDecode.pas=</Transaction>
+    <Transaction>2020/01/19 12:13:27.000.434,D:\Pro\Netel2020\Controls\IEditor\IE_Editor\LjnMailMessage.pas=</Transaction>
+    <Transaction>2020/01/19 18:58:45.000.225,D:\Pro\Netel2020\Controls\IEditor\IE_Editor\WBrowserEditor_1.pas=</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.864,=JvCore.dcp</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.895,=JvControls.dcp</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.710,=vclimg.dcp</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.748,=vclactnband.dcp</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.732,=vcl.dcp</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.783,=dbrtl.dcp</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.848,=Jcl.dcp</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.879,=JvStdCtrls.dcp</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.767,=vclie.dcp</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.832,=IndyCore.dcp</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.832,=IndyProtocols.dcp</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.767,=vclx.dcp</Transaction>
+    <Transaction>2020/01/19 19:00:16.000.814,=IndySystem.dcp</Transaction>
+    <Transaction>2020/01/25 19:20:38.000.041,D:\Pro\Netel2020\Controls\IEditor\IE_Editor\EditorUI\UFmLjnEditor.pas=</Transaction>
+    <Transaction>2020/01/25 20:11:52.000.402,D:\Pro\Netel2020\Controls\IEditor\IE_Editor\EditorUI\UFmFullScreen.pas=</Transaction>
+    <Transaction>2020/01/25 20:11:57.000.049,D:\Pro\Netel2020\Controls\IEditor\IE_Editor\EditorUI\UTableProperty.pas=</Transaction>
+    <Transaction>2020/01/28 21:28:32.000.812,=Jcl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
